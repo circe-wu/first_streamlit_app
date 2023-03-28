@@ -1,4 +1,4 @@
 import streamlit
 streamlit.title("My first streamlit_app")
-print("hello world")
-print("circe well done!")
+streamlit.text("hello world")
+streamlit.text("circe well done!")
